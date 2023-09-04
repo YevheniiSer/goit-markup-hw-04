@@ -148,7 +148,7 @@ img {
 .hero-section {
     background-color: #2E2F42;
     background-image: linear-gradient(rgba(46, 47, 66, 0.70),
-            rgba(46, 47, 66, 0.70)), url(/images/background/people-office.jpg);
+            rgba(46, 47, 66, 0.70)), url(../images/background/people-office.jpg);
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
